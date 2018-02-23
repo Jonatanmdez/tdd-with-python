@@ -47,7 +47,7 @@ class NewVisitorTest(unittest.TestCase):
         # There is still a text box inviting her to add another item. She
         # enters "Use peacock feathers to make a fly" (Edith is very
         # methodical)
-        self.fail('Finish the test!')
+        self.fail('Finish the test failing!')
 
 
 if __name__ == '__main__':
