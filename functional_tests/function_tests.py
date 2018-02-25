@@ -4,6 +4,8 @@ import time
 import unittest
 
 
+# TODO: Clean up after FT runs
+
 class NewVisitorTest(unittest.TestCase):
 
     def setUp(self):
